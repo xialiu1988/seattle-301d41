@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/7v5ASc8.png) #Code 301: Intermediate Software Development
+# ![CF](https://i.imgur.com/7v5ASc8.png) Code 301: Intermediate Software Development
 
 ## Course Overview
 
