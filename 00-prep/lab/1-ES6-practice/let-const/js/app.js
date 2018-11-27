@@ -132,5 +132,4 @@ if(localStorage.busmall){
     new Product(names[i]);
   }
 }
-localStorage.clear();
 displayPics();
